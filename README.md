@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="360" alt="aitoxin" src="assets/aitoxin.svg" />
-</div>
-
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍, 𝚒𝚝 𝚒𝚜 𝙰𝚒𝚃𝚘𝚡𝚒𝚗 🚀</h1>
 
 <p align="center">
