@@ -1773,5 +1773,7 @@
   <circle cx="851.50" cy="232.50" r="1.32" fill="#fd0433" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.295s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-22.70 -165.18" to="0 0" dur="1.60s" begin="0.295s" calcMode="spline" keySplines="0.33 1 0.68 1" keyTimes="0;1" fill="freeze"/></circle>
 </svg>
 
-<div align="center">𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍, 𝚒𝚝 𝚒𝚜 𝙰𝚒𝚃𝚘𝚡𝚒𝚗 🚀 | 𝙱𝚛𝚒𝚍𝚐𝚒𝚗𝚐 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚝𝚎𝚗𝚝 𝚊𝚗𝚍 𝚙𝚛𝚎𝚌𝚒𝚜𝚎.
+
+<div align="center">
+  𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍, 𝚒𝚝 𝚒𝚜 𝙰𝚒𝚃𝚘𝚡𝚒𝚗 🚀 | 𝙱𝚛𝚒𝚍𝚐𝚒𝚗𝚐 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚝𝚎𝚗𝚝 𝚊𝚗𝚍 𝚙𝚛𝚎𝚌𝚒𝚜𝚎.
 </div>
