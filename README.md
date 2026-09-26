@@ -1,9 +1,7 @@
-<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍, 𝚒𝚝 𝚒𝚜 𝙰𝚒𝚃0𝚡𝚒𝚗 🚀</h1>
-
-<p align="center">
+<h1 align="center">
   𝙱𝚛𝚒𝚍𝚐𝚒𝚗𝚐 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚢 &amp; 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗.
   𝙿𝚘𝚝𝚎𝚗𝚝 𝚊𝚗𝚍 𝚙𝚛𝚎𝚌𝚒𝚜𝚎.
-</p>
+</h1>
 
 <img width="1200" height="360" alt="aitoxin" src="https://github.com/user-attachments/assets/cb58f0bb-75b7-4558-af7f-8ff1705589cf" />
 <?xml version="1.0" encoding="UTF-8"?>
