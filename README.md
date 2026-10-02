@@ -10,3 +10,6 @@
     <img src="./banner-loop.svg" width="1200" alt="AiT0xin" />
   </a>
 </p>
+<p align="center">
+  <sub><a href="https://ait0xin.github.io">Click the banner to play with it</a></sub>
+</p>
